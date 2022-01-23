@@ -1,0 +1,29 @@
+.copy_right_footer{
+    position: fixed;
+    color:seagreen;
+    bottom: 0;
+    width: 100%;
+    background-color: yellowgreen;
+    line-height: 3;
+    text-align: center;
+}
+.heading{
+    font-size: 25px;
+  box-shadow: 5px 5px 5px green;
+  margin: 0px;
+  width: 100%;
+  font-family: 'Bebas Neue', cursive;
+font-family: 'The Nautigal', cursive;
+font-family: 'Zen Old Mincho', serif;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+canvas{
+    background: gray;
+    border: 5px solid black ;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px  red;
+
+}
